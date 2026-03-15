@@ -1,0 +1,69 @@
+body {
+    background-color: aquamarine;
+    
+}
+
+#nav {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: white;
+    background-color: pink;
+    padding: 10px;
+    text-decoration: none;
+    margin: 10px 10px;
+    font-family: 'Courier New', sans-serif;
+    letter-spacing: 2px;
+    width:300px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bolder;
+    border: white solid 5px;
+    border-radius: 20px;
+}
+
+a:hover {
+    color: pink;
+    background-color: white;
+    border: pink solid 5px;
+    border-radius: 20px;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    width: 300px;
+    background-color: white;
+    color: pink;
+    text-align: center;
+    border: pink solid 5px;
+    border-radius: 20px;
+}
+
+/*h1:hover {
+    color: white;
+    background-color: pink;
+    border: white solid 2px; 
+}*/
+
+#content {
+    background-color: white;
+    color: pink;
+    font-size: 16px;
+    line-height: 200%;
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 20px;
+    padding: 10px 40px;
+    border: pink solid 5px;
+    border-radius: 20px;
+    font-weight: bolder;
+}
+

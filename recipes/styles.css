@@ -1,0 +1,78 @@
+/* recipe page css */
+
+body {
+    background-color: aquamarine;
+    line-height: 200%;
+}
+
+img {
+    border: white solid 5px;
+    border-radius: 20px;
+    padding: 20px 0px;
+    background-color: white;
+    margin-left: 10%;
+}
+
+#content {
+    display: block;
+    margin-left: 25%;
+    width: 500px;
+    align-content: center;
+    margin-bottom: 100px;
+    
+}
+
+h1 {
+    width: 300px;
+    background-color: white;
+    color: pink;
+    text-align: center;
+    border: pink solid 5px;
+    border-radius: 20px;
+    margin-left: 20%;
+}
+
+h2 {
+    width: 300px;
+    background-color: white;
+    color: pink;
+    text-align: center;
+    border: pink solid 5px;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 20%;
+    
+}
+
+ul,
+ol {
+    background-color: white;
+    padding: 20px 30px;
+    border: pink solid 5px;
+    border-radius: 20px;
+}
+
+a {
+    color: white;
+    background-color: pink;
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 100px;
+    font-family: 'Courier New', sans-serif;
+    letter-spacing: 2px;
+    width:300px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bolder;
+    border: white solid 5px;
+    border-radius: 20px;
+    margin-left: 30%;
+    
+}
+
+a:hover {
+    color: pink;
+    background-color: white;
+    border: pink solid 5px;
+    border-radius: 20px;
+}
